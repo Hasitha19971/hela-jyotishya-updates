@@ -1,0 +1,11 @@
+{
+  "version": "6.6.74",
+  "public_key_sha256": "b44528e46a15f7005048833294f02eaf9118b4f5bb093e9bc4d47067e4fc3100",
+  "sha256": {
+    "CUSTOMER_ONLY/PHKS_Hela_Jyotishya_Customer_Setup_v6664.exe": "1175f9c3ba08df6ba6676463261cc461d53374e620e4cf672728b868649fa7dd",
+    "OWNER_ONLY/PHKS_Offline_License_Admin_Setup_v6664.exe": "82a68741e9dd2bb07b847693ac024fe91e61e0a7edd3d21e0adf924c49c3903a"
+  },
+  "code_signed": false,
+  "rules_profile": "cloud",
+  "windows_acceptance": "pending"
+}
