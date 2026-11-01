@@ -1,7 +1,7 @@
 {
-  "version": "6.6.94",
-  "released": "2026-10-31",
+  "version": "6.6.96",
+  "released": "2026-11-01",
   "download_url": "https://github.com/Hasitha19971/hela-jyotishya-updates/releases/download/v6.6.94-test/Setup_6.6.94.exe",
-  "notes": "TEST 6.6.94: one-click update test (refunds, audit trail, installer closes the open app).",
-  "token": "PHKSU1.eyJkb3dubG9hZF91cmwiOiJodHRwczovL2dpdGh1Yi5jb20vSGFzaXRoYTE5OTcxL2hlbGEtanlvdGlzaHlhLXVwZGF0ZXMvcmVsZWFzZXMvZG93bmxvYWQvdjYuNi45NC10ZXN0L1NldHVwXzYuNi45NC5leGUiLCJub3RlcyI6IlRFU1QgNi42Ljk0OiBvbmUtY2xpY2sgdXBkYXRlIHRlc3QgKHJlZnVuZHMsIGF1ZGl0IHRyYWlsLCBpbnN0YWxsZXIgY2xvc2VzIHRoZSBvcGVuIGFwcCkuIiwicHJvZHVjdCI6ImhlbGEtanlvdGlzaHlhLXVwZGF0ZSIsInJlbGVhc2VkIjoiMjAyNi0xMC0zMSIsInNoYTI1NiI6ImY5NzU3NjJkNTBmYWQ3Y2NkYjc4ZmU5MzdmMDQxMTdjZThlZDEwNzM0NmRjNTcxNGE4NGM2ZWQwMGU3NGYzMDIiLCJ2ZXJzaW9uIjoiNi42Ljk0In0.zBJ5eywHDg9j5XB_luVotHOueUXABs8NrBmiVPWufndddyHUICQtVzedBUdVLf_yJxJ0Ut59G2Cmy0YrmBL0DQ"
+  "notes": "TEST: one-click update check of the fixed 6.6.95 launcher (re-uses the 6.6.94 test Setup).",
+  "token": "PHKSU1.eyJkb3dubG9hZF91cmwiOiJodHRwczovL2dpdGh1Yi5jb20vSGFzaXRoYTE5OTcxL2hlbGEtanlvdGlzaHlhLXVwZGF0ZXMvcmVsZWFzZXMvZG93bmxvYWQvdjYuNi45NC10ZXN0L1NldHVwXzYuNi45NC5leGUiLCJub3RlcyI6IlRFU1Q6IG9uZS1jbGljayB1cGRhdGUgY2hlY2sgb2YgdGhlIGZpeGVkIDYuNi45NSBsYXVuY2hlciAocmUtdXNlcyB0aGUgNi42Ljk0IHRlc3QgU2V0dXApLiIsInByb2R1Y3QiOiJoZWxhLWp5b3Rpc2h5YS11cGRhdGUiLCJyZWxlYXNlZCI6IjIwMjYtMTEtMDEiLCJzaGEyNTYiOiJmOTc1NzYyZDUwZmFkN2NjZGI3OGZlOTM3ZjA0MTE3Y2U4ZWQxMDczNDZkYzU3MTRhODRjNmVkMDBlNzRmMzAyIiwidmVyc2lvbiI6IjYuNi45NiJ9.-uNhnmQZZg53fDmgeb6TFq5CxwNKKnmboam1lttMYB8f3ryZYo0KciqMbqBVT154TVmD3-QyWy0f7VpuAwETBw"
 }
